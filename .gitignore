@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .DS_Store
 .vscode/
+
+# lokale Kalibrierung für Klick-Positionen
+field_positions.json

@@ -1,6 +1,6 @@
 ===CARD===
-Wann wird eine einfaktorielle ANOVA verwendet?
 Wenn die UV mehr als zwei Ausprägungen hat.
+
 Wenn alle Gruppen dieselbe Varianz haben.
 Wenn es nur zwei Gruppen gibt.
 Wenn keine Hypothese vorliegt.
@@ -8,9 +8,10 @@ Wenn keine Hypothese vorliegt.
 ===CARD===
 Welche Voraussetzung gilt bei der ANOVA?
 Varianzhomogenität der Fehlerwerte.
+
 AV ist dichotom.
 Gruppenmittel sind identisch.
-Die Daten sind ordinalskaliert.
 
 
-✅ Alle Karten ab Karte 2 stimmen exakt überein.
+❌ Unterschiede bei folgenden Karten:
+2, 3
