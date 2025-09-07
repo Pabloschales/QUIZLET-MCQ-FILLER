@@ -1,0 +1,212 @@
+Die Mittelwertsdifferenz zwischen zwei Gruppen
+Die Richtung eines Kausalzusammenhangs
+Den Unterschied zwischen zwei Mittelwerten
+
+Wenn beide Variablen normalverteilt sind
+Wenn eine Variable konstant bleibt
+Wenn beide Variablen sinken
+
+Wenn beide Variablen identisch sind
+Wenn beide Variablen kategorial sind
+Wenn beide Variablen Nullwerte enthalten
+
+Die Variablen sind perfekt korreliert
+Die Variablen sind ungleich skaliert
+Die Varianz ist identisch
+
+Dass eine Variable konstant bleibt
+Dass ein Kausalzusammenhang besteht
+Dass beide Variablen normalverteilt sind
+
+Den Effekt einer UV unter Kontrolle anderer UVs
+Den Zusammenhang zwischen drei oder mehr Variablen
+Den Mittelwertsunterschied in einer Gruppenanalyse
+
+Die Standardabweichung der AV
+Den Mittelwert der Residuen
+Die Steigung des Achsenabschnitts
+
+Der Punkt, an dem UV und AV maximal korrelieren
+Der höchste Wert der UV
+Der Mittelwert der AV
+
+Ein Zusammenhang mit kausalem Charakter
+Ein starker Unterschied im Mittelwert
+Eine perfekte Streuung der Residuen
+
+Die Streuung der AV
+Die Standardabweichung der UV
+Den Korrelationskoeffizienten r
+
+Die Summe der quadrierten Fehlerwerte
+Die Standardabweichung der AV
+Der Mittelwert der Prädiktorvariablen
+
+Der Effekt der UV auf die AV ist stark
+Die AV ist nicht normalverteilt
+Die Regressionsgerade liegt exakt auf den Daten
+
+Der Zusammenhang ist kausal
+Die AV hat eine geringe Varianz
+Die UV wurde falsch skaliert
+
+Wenn der Mittelwert der AV maximal ist
+Wenn der t-Wert signifikant wird
+Wenn R² maximal 1 ist
+
+Den p-Wert der UV
+Die Signifikanz der Mittelwerte
+Die Stärke des Zusammenhangs zweier UVs
+
+50 % der UV wird durch die AV erklärt
+Die AV variiert zu 25 % aufgrund von Residuen
+Der Mittelwert der AV beträgt 0,25
+
+Wenn R² kleiner als 0,05 ist
+Wenn die AV intervallskaliert ist
+Wenn die UV normalverteilt ist
+
+Ob die AV mit der UV kovariiert
+Ob die Residuen normalverteilt sind
+Ob die Varianz der AV größer als die der UV ist
+
+Ob das Residuum signifikant ist
+Ob das Modell kausal ist
+Ob der Mittelwert der AV signifikant abweicht
+
+Ob die UV einen Mittelwert von null hat
+Ob das Modell standardisiert ist
+Ob die Regressionsgerade positiv geneigt ist
+
+Die Residuen sind normalverteilt
+Die UV ist standardisiert
+Die AV ist intervallskaliert
+
+Die Residuen sind immer positiv
+Die UV ist kategorial
+Die Varianz der AV ist null
+
+Weil sie die Richtung des Zusammenhangs verändert
+Weil sie den Mittelwert der AV senkt
+Weil sie R² automatisch erhöht
+
+Es besteht ein Zusammenhang zwischen Mittelwerten
+Die AV hat keine Ausreißer
+Die UV ist normalverteilt
+
+Die Erhebung der UV zu vereinfachen
+Die Effektstärke zu maximieren
+Die Gruppenzugehörigkeit zu bestimmen
+
+Die AV muss transformiert werden
+Der Achsenabschnitt wird null
+Das Modell ist immer signifikant
+
+Die Residuen sind immer homogen
+Die AV wird dichotom
+Der Achsenabschnitt wird negativ
+
+Die Regression ist signifikant
+Die Varianz steigt mit der AV
+Die Steigung der Regressionsgerade nimmt ab
+
+Ein Muster entlang der Regressionsgeraden
+Ein linearer Anstieg der Residuen
+Ein deutlicher Ausreißer bei x = 0
+
+Wenn die AV kategorial ist
+Wenn die UV normalverteilt ist
+Wenn die Mittelwerte gleich sind
+
+Die UV hat einen negativen Mittelwert
+Die AV ist stark korreliert mit Residuen
+Die Mittelwerte unterscheiden sich signifikant
+
+Die durchschnittliche Abweichung der Residuen
+Der Wert der AV bei UV = 0
+Die Korrelation zwischen UV und AV
+
+Wenn die AV immer konstant bleibt
+Wenn R² den Wert 1 erreicht
+Wenn beide Variablen nominalskaliert sind
+
+Wenn beide Variablen perfekt korreliert sind
+Wenn UV und AV identisch skaliert sind
+Wenn das Modell standardisiert wurde
+
+Mit steigender UV bleibt die AV konstant
+Mit sinkender UV steigt die AV
+Mit steigender AV bleibt die UV konstant
+
+Wenn die UV doppelt so groß wie die AV ist
+Wenn die AV einen negativen Mittelwert hat
+Wenn das Bestimmtheitsmaß hoch ist
+
+Wenn zwei AVs identisch skaliert sind
+Wenn eine UV mehrfach gemessen wurde
+Wenn Residuen stark streuen
+
+Weil sie die Effektstärke erhöht
+Weil sie die Varianz der AV erklärt
+Weil sie die Signifikanz steigert
+
+Durch kleine Regressionsgewichte
+Durch geringe Residuen
+Durch niedrige Korrelation zwischen AV und UV
+
+Sie senkt die Effektgröße
+Sie reduziert die Modellgüte
+Sie verändert das Intercept
+
+Die AV wird quadriert
+Der Mittelwert wird auf 1 gesetzt
+Die Residuen werden korrigiert
+
+Man kann die Skalierung ignorieren
+Man erkennt die Richtung des Zusammenhangs
+Man erhält immer signifikante Ergebnisse
+
+Wenn die UV nicht normalverteilt ist
+Wenn die AV standardisiert wurde
+Wenn die Regressionsgewichte identisch sind
+
+Ein Effekt von 0,4 auf der Originalskala
+Eine Zunahme um 0,4 Einheiten der UV
+Ein Rückgang der AV um 0,4 Einheiten
+
+Weil die Korrelation immer positiv ist
+Weil AV und UV gleichzeitig verändert wurden
+Weil lineare Zusammenhänge immer kausal sind
+
+Ein Zusammenhang ohne Streuung
+Ein Effekt bei perfekter Korrelation
+Ein Ergebnis mit p > .05
+
+Ein direkter Effekt ohne Residuen
+Ein Zusammenhang ohne Kausalität
+Ein Modell mit multipler Regression
+
+Wenn beide Variablen standardisiert sind
+Wenn die AV dichotom ist
+Wenn keine Korrelation vorliegt
+
+Beide Variablen werden um den Mittelwert korrigiert
+Die dritte Variable wird ignoriert
+Nur der Mittelwert der AV wird berechnet
+
+Dass der Effekt praktisch bedeutungslos ist
+Dass die AV nicht skaliert ist
+Dass die Standardabweichung der UV zu klein ist
+
+Der Mittelwert aller Residuen
+Der Wert, der am häufigsten beobachtet wurde
+Der Punkt, an dem UV = AV
+
+Weil er immer ein Intervall liefert
+Weil er die Richtung des Zusammenhangs ignoriert
+Weil er unabhängig vom Regressionsgewicht ist
+
+Regression misst Mittelwertsunterschiede
+Regression ist eine Form der Korrelation
+Korrelation erklärt die Abweichung der AV
+

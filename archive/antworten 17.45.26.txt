@@ -1,0 +1,223 @@
+Die Mittelwertsdifferenz zwischen zwei Gruppen
+Die Richtung eines Kausalzusammenhangs
+Den Unterschied zwischen zwei Mittelwerten
+
+Wenn beide Variablen normalverteilt sind
+Wenn eine Variable konstant bleibt
+Wenn beide Variablen sinken
+
+Wenn beide Variablen identisch sind
+Wenn beide Variablen kategorial sind
+Wenn beide Variablen Nullwerte enthalten
+
+Die Variablen sind perfekt korreliert
+Die Variablen sind ungleich skaliert
+Die Varianz ist identisch
+
+Dass eine Variable konstant bleibt
+Dass ein Kausalzusammenhang besteht
+Dass beide Variablen normalverteilt sind
+
+Die Mittelwertsdifferenz zweier Gruppen
+Die Korrelation zwischen Residuen
+Die Berechnung des Signifikanzwertes
+
+Der Mittelwert des Regressors
+Die Varianz der abhängigen Variable
+Die Kovarianz beider Prädiktoren
+
+Ein durchschnittlicher Regressionswert
+Der Mittelwert des Residuums
+Die Standardabweichung des Regressionswerts
+
+Dass die abhängige Variable negativ ist
+Dass das Intervall keine Varianz enthält
+Dass b eine Nullhypothese verletzt
+
+Der Mittelwert der Residuen
+Der Beta-Koeffizient
+Der t-Wert des Modells
+
+Die Residuen sind normalverteilt
+Die AV ist nicht intervallskaliert
+Die UV ist kategorial
+
+Die Anzahl der Beobachtungen
+Die Varianz des Regressors
+Der p-Wert der Regressionsanalyse
+
+Der Unterschied zwischen zwei Stichproben
+Die Mittelwertsdifferenz der AV
+Die Standardabweichung der Residuen
+
+Die Abweichung vom Mittelwert
+Der Mittelwert des Regressors
+Der Quadrierte Mittelwert
+
+Ein zufälliger Fehler
+Ein signifikanter Zusammenhang
+Ein systematischer Messfehler
+
+Die Vorhersage ist genau null
+Die Korrelation ist signifikant
+Die UV ist konstant
+
+Die p-Werte sind signifikant
+Die Residuen sind symmetrisch
+Die Stichprobe ist normalverteilt
+
+Die Varianz der AV ist null
+Der Mittelwert des Regressors ist 1
+Der p-Wert liegt unter .01
+
+Der Anteil erklärter Varianz in der UV
+Der Zusammenhang der UV mit der AV
+Der Einfluss des Intercepts
+
+75 % der Varianz wird nicht erklärt
+Nur 5 % der Varianz wird erklärt
+Das Modell erklärt keine Varianz
+
+Wenn R² nahe bei null liegt
+Wenn die Standardabweichung hoch ist
+Wenn der Mittelwert signifikant ist
+
+Ob die Varianz der AV normal ist
+Ob die Residuen normalverteilt sind
+Ob die UV signifikant ist
+
+Er zeigt, ob der Intercept signifikant ist
+Er ist unabhängig vom Modell
+Er zeigt den Stichprobenumfang
+
+Die Schiefe der Verteilung
+Die Varianz der Residuen
+Die Streuung der AV
+
+Die Residuen sind nicht unabhängig
+Die UV ist nicht intervallskaliert
+Die Anzahl der Ausreißer ist hoch
+
+Die Residuen sind normalverteilt
+Die p-Werte sind signifikant
+Die UV ist normalverteilt
+
+Die Prädiktoren sind unabhängig
+Die Normalverteilung der AV
+Die Linearität der AV
+
+Die Varianz der AV ist hoch
+Die Streuung ist konstant
+Die Korrelation ist signifikant
+
+Die UV ist dichotom
+Die AV ist normalverteilt
+Die Schätzung der Standardfehler
+
+Die AV ist standardisiert
+Die Streuung ist symmetrisch
+Die Korrelation ist hoch
+
+Der Mittelwert der UV
+Die Stichprobengröße
+Der Signifikanzwert des Modells
+
+Eine gleichmäßige Streuung der AV
+Ein steigender Trend der UV
+Eine schiefe Verteilung der Residuen
+
+Ein Muster in den Residuen
+Ein Trend im Intercept
+Ein Einfluss der UV auf die AV
+
+Wenn R² = 1 ist
+Wenn die AV dichotom ist
+Wenn keine Linearität vorliegt
+
+Die AV ist konstant
+Die UV ist zufällig
+Die Residuen sind negativ
+
+Die Höhe des Mittelwerts
+Die Richtung der p-Werte
+Die Varianz der UV
+
+Wenn b nicht signifikant ist
+Wenn R² = 0,5
+Wenn die UV dichotom ist
+
+Wenn b negativ ist
+Wenn die AV standardisiert ist
+Wenn R² hoch ist
+
+Ein nicht-linearer Zusammenhang
+Ein Zufallsfehler
+Eine nicht signifikante Beziehung
+
+Der p-Wert ist unter .05
+Der Intercept ist hoch
+Die Varianz ist konstant
+
+Die Korrelation zwischen AV und UV
+Die Kovarianz zweier UVs
+Der Intercept ist signifikant
+
+Die Varianz der AV
+Die Streuung der Residuen
+Der p-Wert ist signifikant
+
+Wenn die AV normalverteilt ist
+Wenn die UV standardisiert ist
+Wenn der Standardfehler hoch ist
+
+Ein starker negativer Zusammenhang
+Ein starker nicht-linearer Zusammenhang
+Ein insignifikanter Zusammenhang
+
+Die Residuen sind normalverteilt
+Die AV ist intervallskaliert
+Die UV ist dichotom
+
+Ein Messfehler
+Ein Signifikanzfehler
+Ein Mittelwertsfehler
+
+Die UV beeinflusst die AV
+Ein signifikanter Zusammenhang
+Ein hoher Standardfehler
+
+Eine hohe Signifikanz
+Ein großes β-Gewicht
+Ein kleiner Standardfehler
+
+Ein zufälliger Zusammenhang
+Ein signifikanter Zusammenhang
+Ein normalverteiltes Muster
+
+Ein Zusammenhang durch Zufall
+Ein Scheineffekt
+Ein Kausalfehler
+
+Der Mittelwert ist kontrolliert
+Beide Variablen sind konstant
+Die Residuen sind reduziert
+
+Beide Variablen sind bereinigt
+Keine Variable ist kontrolliert
+Die UV wird vollständig entfernt
+
+Das Modell ist falsch
+Der Effekt ist stark
+Die Korrelation ist negativ
+
+Ein Bereich ohne p-Wert
+Ein Konfidenzintervall um AV
+Ein Test auf Heteroskedastizität
+
+Er ersetzt den Effekt
+Er zeigt den Mittelwert
+Er ersetzt das Signifikanzniveau
+
+Regression misst nur Richtung
+Korrelation erklärt Varianz
+Regression schätzt Residuen

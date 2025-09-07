@@ -1,0 +1,21 @@
+===CARD===
+Idc fvgbhn
+Eine UV mit mehreren Stufen.
+Eine AV mit fester Skalierung.
+Ein Störmerkmal der Messung.
+Eine abhängige Kontrastform.
+
+===CARD===
+Wann wird eine einfaktorielle ANOVA verwendet?
+Wenn die UV mehr als zwei Ausprägungen hat.
+Wenn alle Gruppen dieselbe Varianz haben.
+Wenn es nur zwei Gruppen gibt.
+Wenn keine Hypothese vorliegt.
+
+===CARD===
+Welche Voraussetzung gilt bei der ANOVA?
+Varianzhomogenität der Fehlerwerte.
+AV ist dichotom.
+Gruppenmittel sind identisch.
+Die Daten sind ordinalskaliert.
+

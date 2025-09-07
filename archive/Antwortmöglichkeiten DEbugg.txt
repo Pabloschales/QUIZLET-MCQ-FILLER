@@ -1,0 +1,26 @@
+import re
+
+dateipfad = "/Users/pabloschales/Python/MeinProjekt/antworten.txt"
+
+with open(dateipfad, encoding="utf-8") as f:
+    inhalt = f.read()
+
+# Robust split: Trenne an mindestens einer Leerzeile (mit oder ohne Leerzeichen)
+blöcke_roh = re.split(r'\n\s*\n', inhalt.strip())
+
+# Prüfe jeden Block einzeln
+print(f"\n🔍 Gesamtzahl erkannter Blöcke: {len(blöcke_roh)}\n")
+
+fehlerhafte_bloecke = []
+
+for i, block in enumerate(blöcke_roh):
+    zeilen = [zeile for zeile in block.strip().split('\n') if zeile.strip()]
+    if len(zeilen) != 3:
+        print(f"⚠️ Block {i+1} hat {len(zeilen)} Zeilen:")
+        for j, z in enumerate(zeilen, 1):
+            print(f"  Zeile {j}: '{z}'")
+        print("---\n")
+        fehlerhafte_bloecke.append(i + 1)
+
+print(f"✅ Anzahl gültiger Blöcke mit exakt 3 Zeilen: {len(blöcke_roh) - len(fehlerhafte_bloecke)}")
+print(f"❌ Fehlerhafte Blöcke: {len(fehlerhafte_bloecke)} → {fehlerhafte_bloecke}")

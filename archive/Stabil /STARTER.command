@@ -1,0 +1,3 @@
+#!/bin/bash
+cd ~/Python/PROJEKTE/QUIZLET-MCQ-FILLER
+python3 QUIZLET-MCQ-FILLER.py

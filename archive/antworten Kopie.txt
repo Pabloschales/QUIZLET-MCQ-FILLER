@@ -1,0 +1,541 @@
+===CARD===
+Idc fvgbhn
+Eine UV mit mehreren Stufen.
+Eine AV mit fester Skalierung.
+Ein Störmerkmal der Messung.
+Eine abhängige Kontrastform.
+
+===CARD===
+Wann wird eine einfaktorielle ANOVA verwendet?
+Wenn die UV mehr als zwei Ausprägungen hat.
+Wenn alle Gruppen dieselbe Varianz haben.
+Wenn es nur zwei Gruppen gibt.
+Wenn keine Hypothese vorliegt.
+
+===CARD===
+Welche Voraussetzung gilt bei der ANOVA?
+Varianzhomogenität der Fehlerwerte.
+AV ist dichotom.
+Gruppenmittel sind identisch.
+Die Daten sind ordinalskaliert.
+
+===CARD===
+Was prüft die Nullhypothese in der ANOVA?
+Alle Gruppenmittelwerte sind gleich.
+Die AV ist normalverteilt.
+Ein Faktor hat keine Ausprägung.
+Die Streuung ist immer konstant.
+
+===CARD===
+Was gilt unter H₁ in der ANOVA?
+Mindestens eine Gruppe unterscheidet sich.
+Alle Gruppen sind vollständig gleich.
+Die Fehler sind unabhängig.
+Der F-Wert ist immer null.
+
+===CARD===
+Was bedeutet „yim“ in der ANOVA?
+Wert einer Person in einer bestimmten Gruppe.
+Summe der Fehlerwerte einer Person.
+Varianz der Gesamtstichprobe.
+Mittelwert aller Gruppen.
+===CARD===
+Was beschreibt QSA in der ANOVA?
+Erklärte Varianz durch Gruppenunterschiede.
+Fehlervarianz innerhalb der Gruppen.
+Gesamtsumme aller Einzelwerte.
+Standardabweichung der AV.
+
+===CARD===
+Wie lautet die Formel für dfA?
+p minus 1
+n minus 1
+N minus p
+p mal n
+
+===CARD===
+Wie wird der F-Wert berechnet?
+MQA geteilt durch MQe
+QSA plus QSe
+QS tot durch df tot
+QSe geteilt durch MQ tot
+===CARD===
+Was ist ein typischer Rechenschritt in der ANOVA?
+Berechnung von Mittelwerten und Quadratsummen.
+Ermitteln des Modus jeder Gruppe.
+Umwandlung in Rangdaten.
+Korrelation aller AVs.
+
+===CARD===
+Warum macht man keine mehrfachen t-Tests statt ANOVA?
+Wegen Alpha-Fehler-Kumulierung.
+Weil t-Tests keine Gruppen vergleichen können.
+Weil ANOVA schneller zu rechnen ist.
+Weil Varianzen sonst steigen.
+
+===CARD===
+Was muss beim Vergleich mit der F-Tabelle geprüft werden?
+Ob F größer ist als der kritische Wert.
+Ob QSe gleich Null ist.
+Ob dfA und dfP gleich sind.
+Ob der Mittelwert über 0 liegt.
+===CARD===
+Was ist ein Kontrast?
+Ein gewichteter Gruppenvergleich.
+Ein Summenwert der AV.
+Ein Fehlerterm im Modell.
+Ein Schätzer der Gesamtstreuung.
+
+===CARD===
+Wann sind Kontraste orthogonal?
+Wenn ihr Skalarprodukt null ist.
+Wenn beide Werte positiv sind.
+Wenn sie die gleiche Gruppe testen.
+Wenn sie identisch kodiert sind.
+
+===CARD===
+Was bewirkt die Scheffé-Korrektur?
+Sie passt den F-Wert bei Nachtests an.
+Sie senkt alle Mittelwerte.
+Sie ersetzt die Varianz durch r.
+Sie erhöht dfA und dfP.
+===CARD===
+Was zeigt eine Interaktion in der ANOVA?
+Ein Effekt hängt vom anderen Faktor ab.
+Beide Effekte sind gleich stark.
+Alle Gruppen sind exakt identisch.
+Nur ein Faktor ist signifikant.
+
+===CARD===
+Wie erkennt man eine Interaktion im Plot?
+Die Linien schneiden sich oder verlaufen nicht parallel.
+Alle Linien verlaufen exakt gleich.
+Die Mittelwerte sind exakt gleich.
+Die AV zeigt keine Varianz.
+
+===CARD===
+Wann ist ein Effekt signifikant?
+Wenn F größer als Fkrit ist.
+Wenn QSe minimal ist.
+Wenn alle Gruppen gleich sind.
+Wenn dfP = dfA.
+===CARD===
+Was ist ein Messwiederholungsfaktor?
+Ein Faktor mit mehreren Messungen je Person.
+Ein Merkmal, das Gruppen trennt.
+Ein fester Wert im Mittel.
+Ein Kontrollsignal im Datensatz.
+
+===CARD===
+Was ist ein Vorteil von Messwiederholung?
+Reduktion der Fehlervarianz.
+Größere Gruppenvielfalt.
+Automatischer F-Test.
+Unabhängigkeit der AV.
+
+===CARD===
+Was gehört zur QS-Zerlegung bei Messwiederholung?
+QS_A, QS_P, QS_e
+QS_Tot, QS_X, QS_P
+QSe, QStot, QSP
+QS_Rest, QS_MQ, QS_Z
+===CARD===
+Wie berechnet man df_e bei Messwiederholung?
+(p − 1) × (n − 1)
+p + n − 1
+p × n − 1
+n × (p − 1)
+
+===CARD===
+Was ist MQ in der ANOVA?
+Quadratsumme geteilt durch df.
+Gesamtsumme geteilt durch n.
+Mittelwert mal Fehler.
+Streuung der AV pro Gruppe.
+
+===CARD===
+Wann lohnt sich Messwiederholung besonders?
+Wenn die Werte pro Person stabil bleiben.
+Wenn alle AVs nominal sind.
+Wenn Gruppen vollständig unabhängig sind.
+Wenn die Gruppen stark streuen.
+===CARD===
+Wann muss Sphärizität geprüft werden?
+Bei Messwiederholung mit mehr als zwei Bedingungen.
+Bei unabhängigen Gruppen.
+Wenn es nur eine Gruppe gibt.
+Wenn die AV nominal ist.
+
+===CARD===
+Was prüft der Mauchly-Test?
+Ob Sphärizität verletzt ist.
+Ob alle Gruppen normal sind.
+Ob die Streuung maximal ist.
+Ob es Kontraste gibt.
+
+===CARD===
+Was bewirkt die Greenhouse-Geisser-Korrektur?
+Anpassung der Freiheitsgrade bei Verletzung der Sphärizität.
+Ersetzung der AV durch einen Mittelwert.
+Berechnung eines korrigierten p-Werts bei t-Tests.
+Erhöhung der Effektgröße bei linearen Kontrasten.
+===CARD===
+Was ist ein mixed Design?
+Ein Design mit Between- und Within-Faktoren kombiniert.
+Ein Versuchsaufbau mit rein unabhängigen Gruppen.
+Ein Design, das nur Messwiederholung verwendet.
+Ein zufälliges Modell ohne Faktorstruktur.
+
+===CARD===
+Was ist ein Vorteil gemischter Designs?
+Man kann Gruppen- und Zeitfaktoren gleichzeitig untersuchen.
+Die Effekte werden über mehrere Ebenen ausgewertet.
+Fehlerquellen treten ausschließlich zwischen Gruppen auf.
+Der Mittelwert aller Bedingungen ist immer identisch.
+
+===CARD===
+Was gilt für gemischte Designs?
+Ein Faktor liegt innerhalb, der andere zwischen Personen.
+Alle Gruppen werden jeweils einmal zufällig zugewiesen.
+Die Varianz wird ausschließlich aus Fehlern berechnet.
+Sphärizität spielt für beide Faktoren keine Rolle.
+===CARD===
+Wann ist ein Kontrast sinnvoll?
+Wenn ein gezielter Vergleich zwischen Gruppen geplant ist.
+Wenn alle Gruppen vollständig identisch sind.
+Wenn keine Hypothese vorgegeben wurde.
+Wenn nur eine Personengruppe getestet wird.
+
+===CARD===
+Was gilt für Kontraste in Mixed Designs?
+Sie können für beide Faktoren gezielt geplant werden.
+Sie gelten nur bei Between-Faktoren.
+Sie ersetzen die gesamte ANOVA.
+Sie sind bei mehr als zwei Gruppen nicht erlaubt.
+
+===CARD===
+Was ist ein häufiger Fehler bei Kontrasttests?
+Die Korrektur bei Mehrfachvergleichen wird vergessen.
+Der Effekt wird durch p direkt geschätzt.
+Die AV wird vorher standardisiert.
+Alle Freiheitsgrade werden gleichgesetzt.
+===CARD===
+Was misst Eta²?
+Erklärte Varianz am Gesamtwert.
+Differenz aller Gruppenmittel.
+Streuung der Einzelwerte absolut.
+Standardfehler der Effektdichte.
+
+===CARD===
+Was bedeutet Eta² = 0.06?
+Ein mittlerer Effekt liegt vor.
+Ein Fehler wurde ignoriert.
+Die Varianz ist verteilt.
+Ein p-Wert liegt vor.
+
+===CARD===
+Wofür steht hohe Effektstärke?
+Der Effekt ist praktisch bedeutsam.
+Der Median sinkt in jeder Gruppe.
+Die Normalverteilung wurde verletzt.
+Alle Gruppen haben denselben Wert.
+===CARD===
+Was folgt aus einem signifikanten Ergebnis?
+Ein Unterschied zwischen Gruppen gilt als belegt.
+Der Mittelwert ist in allen Gruppen identisch.
+Die Streuung ist durch Fehler erklärbar.
+Die Korrelation der Gruppenmittel ist exakt null.
+
+===CARD===
+Wann ist ein Ergebnis nicht automatisch relevant?
+Wenn Signifikanz ohne nennenswerten Effekt vorliegt.
+Wenn dfA und dfP zufällig gleich sind.
+Wenn alle Gruppen die gleiche Varianz zeigen.
+Wenn QSe und QSA exakt gleich ausfallen.
+
+===CARD===
+Was kann bei großen Stichproben passieren?
+Kleine Effekte erscheinen als statistisch bedeutsam.
+Alle F-Werte liegen unter dem kritischen Bereich.
+Die AV wird durch Gruppenzahl korrigiert.
+Alle Kontraste sind automatisch orthogonal.
+===CARD===
+Was ist ein Alpha-Fehler?
+Die Nullhypothese wird fälschlich abgelehnt.
+Ein p-Wert wird größer als 1 geschätzt.
+Die Gruppenstreuung ist exakt gleich verteilt.
+Die Effektgröße wird als p interpretiert.
+
+===CARD===
+Was bedeutet p = 0.04 bei α = 0.05?
+Das Ergebnis ist statistisch signifikant.
+Die Nullhypothese muss beibehalten werden.
+Der Effekt ist inhaltlich sehr stark.
+Alle Gruppen haben identische Mittelwerte.
+
+===CARD===
+Was ist ein häufiger Irrtum bei p-Werten?
+p wird als Maß für Effektgröße verstanden.
+p entspricht immer dem Mittelwert.
+Ein hoher p-Wert zeigt starke Korrelation.
+Ein niedriger p-Wert beweist Kausalität.
+===CARD===
+Was gilt bei statistischer Signifikanz?
+Sie belegt keinen kausalen Zusammenhang.
+Der Effekt ist immer praktisch relevant.
+Die AV erklärt automatisch die UV.
+Gruppenunterschiede sind zwingend vorhanden.
+
+===CARD===
+Was ist ein häufiger Denkfehler?
+Signifikanz mit Ursache-Wirkung zu verwechseln.
+Nicht-signifikante Ergebnisse als Fehler zu werten.
+Große Effekte mit kleinen Stichproben zu verbinden.
+Effektstärke über die AV zu berechnen.
+
+===CARD===
+Was zeigt eine hohe Korrelation nicht?
+Einen zwingenden Ursache-Wirkungs-Zusammenhang.
+Dass beide Variablen dieselbe Streuung aufweisen.
+Dass die AV normalverteilt ist.
+Dass die Messung ohne Fehler durchgeführt wurde.
+===CARD===
+Wann ist ein kleiner Effekt trotzdem wichtig?
+Wenn er in relevantem Kontext auftritt.
+Wenn p unter 0.001 liegt.
+Wenn dfA sehr groß ist.
+Wenn alle Gruppen exakt gleich sind.
+
+===CARD===
+Was gilt bei rein statistischer Signifikanz?
+Sie sagt nichts über praktische Bedeutung aus.
+Sie beweist die Richtung des Effekts.
+Sie bedeutet immer große Effektstärke.
+Sie ersetzt die Kontrolle der Voraussetzungen.
+
+===CARD===
+Was sollte man neben dem p-Wert beachten?
+Die Effektstärke und den inhaltlichen Kontext.
+Nur die Anzahl der Messwiederholungen.
+Die Häufigkeit der AV im Datensatz.
+Ob die Varianz durch QSP erklärbar ist.
+===CARD===
+Warum braucht man Post-hoc-Tests?
+Um Gruppenunterschiede gezielt nachzuprüfen.
+Um p-Werte aus der ANOVA zu ersetzen.
+Um Kontraste in Fehlerwerte umzuwandeln.
+Um Standardabweichungen zu korrigieren.
+
+===CARD===
+Was ist ein Problem bei vielen Einzelvergleichen?
+Fehler 1. Art kann sich stark aufsummieren.
+Der F-Wert wird zu klein geschätzt.
+Kontraste verlieren an Gültigkeit.
+Sphärizität wird automatisch verletzt.
+
+===CARD===
+Was macht die Bonferroni-Korrektur?
+Sie teilt das α durch die Anzahl der Tests.
+Sie erhöht alle Mittelwerte proportional.
+Sie streicht die höchste QS aus der Analyse.
+Sie ersetzt MQ durch QSP in der Rechnung.
+===CARD===
+Was ist eine Voraussetzung der ANOVA?
+Varianzhomogenität der Gruppenfehler.
+Signifikanz aller Kontraste vorab.
+Exakte Mittelwertgleichheit vor der Messung.
+Linearität zwischen UV und AV.
+
+===CARD===
+Warum ist Normalverteilung der AV wichtig?
+Für die Gültigkeit der F-Test-Statistik.
+Weil sonst keine Effektgröße berechnet wird.
+Damit alle Gruppen die gleiche Größe haben.
+Damit dfA und dfP identisch sind.
+
+===CARD===
+Was prüft der Levene-Test?
+Ob die Gruppen gleiche Fehlervarianzen aufweisen.
+Ob ein Kontrast signifikant wird.
+Ob die AV ordinalskaliert ist.
+Ob der Mittelwert bei Null liegt.
+===CARD===
+Was ist ein Vorteil der ANOVA gegenüber t-Tests?
+Kontrolle des Alpha-Fehlers bei mehreren Gruppen.
+Höhere Aussagekraft bei zwei Bedingungen.
+Ersetzt alle Notwendigkeit zur Randomisierung.
+Erfordert keine Normalverteilung der Daten.
+
+===CARD===
+Was gilt für das allgemeine lineare Modell?
+ANOVA und Regression sind Spezialfälle davon.
+Es beschreibt ausschließlich AVs mit Rangskalierung.
+Es ersetzt den p-Wert durch ein Kriterium k.
+Es wird nur bei dichotomen Gruppen verwendet.
+
+===CARD===
+Was passiert, wenn ANOVA signifikant ist?
+Mindestens ein Gruppenmittelwert weicht ab.
+Alle Gruppen unterscheiden sich sicher.
+Die Standardabweichung sinkt auf Null.
+Sphärizität ist automatisch erfüllt.
+===CARD===
+Was ist Dummy-Codierung?
+Numerische Darstellung kategorialer Gruppen.
+Umrechnung metrischer Variablen in Ränge.
+Direkte Standardisierung der Mittelwerte.
+Summenbildung aller Residuen pro Gruppe.
+
+===CARD===
+Was ist das Ziel einer Regression?
+Vorhersage einer AV durch eine oder mehrere UVs.
+Berechnung des Mittelwerts in Gruppen.
+Isolierung von Störfaktoren im F-Test.
+Reduktion des Signifikanzniveaus bei Tests.
+
+===CARD===
+Was bedeutet ein R² von 0.30?
+30 % der Varianz der AV sind durch die UV erklärt.
+Die Nullhypothese wurde zu 30 % bestätigt.
+Der p-Wert beträgt exakt 0.30.
+Die Effektstärke ist sehr groß.
+===CARD===
+Was zeigt der Regressionskoeffizient b?
+Veränderung der AV pro UV-Einheit.
+Korrelation zwischen UV und AV.
+Standardabweichung der Gruppenwerte.
+Größe der Varianzaufklärung.
+
+===CARD===
+Was ist ein Residuum?
+Differenz zwischen Messwert und Prognose.
+Mittelwert der Streuung innerhalb Gruppen.
+Fehleranteil bei der Mittelwertbildung.
+Wert der Standardabweichung von y.
+
+===CARD===
+Was bedeutet ein negativer b-Wert?
+AV sinkt, wenn UV steigt.
+Fehlervarianz ist negativ.
+UV nimmt konstant zu.
+Gruppeneffekte sind null.
+===CARD===
+Was ist das Ziel multipler Regression?
+Mehrere UVs zur Vorhersage der AV nutzen.
+Fehlervarianz in Gruppen analysieren.
+AVs miteinander vergleichen.
+p-Werte ohne Varianz berechnen.
+
+===CARD===
+Was ist ein Problem bei Multikollinearität?
+UVs sind stark miteinander korreliert.
+Gruppen sind gleich verteilt.
+Die AV ist nicht metrisch.
+Residuen sind identisch.
+
+===CARD===
+Was folgt bei UV-Korrelation nahe 1?
+Instabile Schätzwerte in der Regression.
+Starke Normalverteilung der AV.
+Automatische Mittelwertbildung.
+Hohe Varianz im t-Test.
+===CARD===
+Was ist Dummy-Codierung?
+Zahlencodes für Kategorien.
+Gruppierung per F-Wert.
+Berechnung der QS tot.
+Wahl der AV-Skalierung.
+
+===CARD===
+Wozu dient Dummy-Codierung?
+Gruppenvergleich im Modell.
+Zuweisung von df-Werten.
+Testen der AV-Streuung.
+Berechnung von p durch b.
+
+===CARD===
+Was ist die Referenzkategorie?
+Vergleichsgruppe im Modell.
+Gruppe mit QSP = 0.
+Gruppe mit höchstem p-Wert.
+Gruppe mit Streuung gleich Null.
+===CARD===
+Was zeigt der F-Test bei Regression?
+Gesamtgüte des Modells.
+Streuung der Residuen.
+Anzahl der UVs.
+Wert von dfA.
+
+===CARD===
+Was bedeutet ein hohes R²?
+Viel durch UV erklärbar.
+Alle Gruppen gleich groß.
+QS tot ist null.
+p liegt unter 0.1.
+
+===CARD===
+Was zeigt R² = 0?
+Keine Erklärung durch UVs.
+b-Wert ist negativ.
+QS A ist maximal.
+dfA = dfP.
+===CARD===
+Was bedeutet b < 0?
+AV sinkt mit steigender UV.
+Die Gruppen sind gleich.
+Streuung liegt bei Null.
+F-Test ist nicht möglich.
+
+===CARD===
+Was zeigt ein hoher Standardfehler?
+Unsichere Schätzung von b.
+Starke Signifikanz im Test.
+R² liegt nahe 1.
+Korrelation ist exakt Null.
+
+===CARD===
+Was bedeutet b = 0?
+Kein Zusammenhang zwischen UV und AV.
+Die AV ist konstant.
+Die Gruppen sind identisch.
+Das Modell ist fehlerfrei.
+===CARD===
+Wann ist ein Ergebnis signifikant?
+Wenn p kleiner als α ist.
+Wenn dfA größer als dfP ist.
+Wenn R² über 0.1 liegt.
+Wenn AV metrisch skaliert ist.
+
+===CARD===
+Was bedeutet p = 0.08 bei α = 0.05?
+Nicht signifikant.
+Starker Effekt.
+Großer F-Wert.
+Sehr hoher Fehlerwert.
+
+===CARD===
+Was ist ein häufiger Irrtum?
+p als Maß für Effektgröße zu sehen.
+dfP immer mit n gleichzusetzen.
+QSA mit QSP zu verwechseln.
+AV automatisch als normalverteilt zu nehmen.
+===CARD===
+Was sagt ein signifikanter b-Wert aus?
+Die UV trägt zur Vorhersage der AV bei.
+Die AV ist immer linear verteilt.
+Die Residuen sind symmetrisch verteilt.
+Der Mittelwert der AV liegt bei Null.
+
+===CARD===
+Wann ist eine Regression ungeeignet?
+Wenn UVs stark korrelieren.
+Wenn AV normalverteilt ist.
+Wenn Gruppen groß genug sind.
+Wenn dfA kleiner als 2 ist.
+
+===CARD===
+Was ist ein typischer Regressionsfehler?
+UVs nicht auf Multikollinearität prüfen.
+AV als UV behandeln.
+F-Test durch t-Test ersetzen.
+QS tot mit QS e verwechseln.
